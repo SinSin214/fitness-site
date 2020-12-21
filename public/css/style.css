@@ -576,5 +576,9 @@ color: #777;
 @media (max-width: 768px) {
 #about img {
 	margin: 50px 0;
+	}
 }
+
+.ant-row.ant-form-item{
+	justify-content: center;
 }
